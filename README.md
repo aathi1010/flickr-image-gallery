@@ -2,7 +2,7 @@
 A React Native mobile application built with Expo that displays recent images from Flickr, supports offline caching, and provides a simple drawer-based navigation UI.
 Project Objective
 
-To create a mobile app that:
+#**To create a mobile app that:**
 
 Fetches recent images from the Flickr API
 
@@ -12,7 +12,7 @@ Caches data locally for offline usage
 
 Refreshes only when API data changes
 (Similar to Instagram feed behavior)
-Features
+#**Features**
 
 📷 Fetches recent images from Flickr API
 
@@ -23,7 +23,7 @@ Features
 🔄 Updates cache only when API data changes
 
 🧭 Left drawer navigation with Home screen
-Tech Stack
+#**Tech Stack**
 
 React Native
 
@@ -36,7 +36,7 @@ AsyncStorage – Local caching
 React Navigation (Drawer)
 
 Expo Go (for testing)
-Offline Mode Test
+#**Offline Mode Test**
 
 Open the app with internet ON
 
